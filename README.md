@@ -1,6 +1,8 @@
 ## すだち / sudati
 I am learning to develop Minecraft plugins and web applications.
 
+私はMinecraftのPluginとWebApplicationの開発を学んでいます。
+
 ## 言語 / Languages
 ![Java](https://skillicons.dev/icons?i=java)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
