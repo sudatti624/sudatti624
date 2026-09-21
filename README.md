@@ -1,13 +1,19 @@
-## すだち / sudati
-I am learning to develop Minecraft plugins and web applications.
+# sudati
 
-私はMinecraftのPluginとWebApplicationの開発を学んでいます。
+Software development focused on Minecraft and the web.
 
-## 言語 / Languages
-![Java](https://skillicons.dev/icons?i=java)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
+Currently building and learning with Java, TypeScript, and JavaScript.
 
-## 所属 / Affiliation
-- CraftersHub / [@CraftersHubJP](https://github.com/CraftersHubJP)
-- Yuzral / [@Yuzral](https://github.com/Yuzral)
+### Technologies
+
+<img src="https://skillicons.dev/icons?i=java,ts,js" height="36" />
+
+### Affiliation
+
+* [CraftersHub](https://github.com/CraftersHubJP)
+* [Yuzral](https://github.com/Yuzral)
+* [TMCJapan](https://github.com/TMCJapan)
+
+### Interests
+
+Minecraft Plugin Development · Web Development · Developer Tools
