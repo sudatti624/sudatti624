@@ -1,19 +1,44 @@
+<div align="center">
+
 # sudati
 
-Software development focused on Minecraft and the web.
+**Building tools, communities, and experiences around Minecraft & the web.**
 
-Currently building and learning with Java, TypeScript, and JavaScript.
+Java · TypeScript · Minecraft · Web Development
+
+</div>
+
+---
+
+### About
+
+I'm a developer interested in **Minecraft development** and **modern web technologies**.
+
+Currently building and learning with **Java**, **TypeScript**, and **JavaScript**,  
+while exploring Minecraft plugins, mods, community tools, and web development.
 
 ### Technologies
 
-<img src="https://skillicons.dev/icons?i=java,ts,js" height="36" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,react,nextjs,tailwind,nodejs,sqlite" height="36" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=github,idea,vscode,discord,ai,pr,misskey,twitter" height="36" />
 
 ### Affiliation
 
-* [CraftersHub](https://github.com/CraftersHubJP)
-* [Yuzral](https://github.com/Yuzral)
-* [TMCJapan](https://github.com/TMCJapan)
+- [CraftersHub](https://github.com/CraftersHubJP)
+- [Yuzral](https://github.com/Yuzral)
+- [TMCJapan](https://github.com/TMCJapan)
 
 ### Interests
 
-Minecraft Plugin Development · Web Development · Developer Tools
+Minecraft Development · Web Development · Developer Tools · Community Platforms
+
+---
+
+<div align="center">
+
+**楽しいを、少しずつかたちに。**
+
+</div>
