@@ -8,8 +8,6 @@ Java · TypeScript · Minecraft · Web Development
 
 </div>
 
----
-
 ### About
 
 I'm a developer interested in **Minecraft development** and **modern web technologies**.
