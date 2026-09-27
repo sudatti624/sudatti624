@@ -17,7 +17,7 @@ while exploring Minecraft plugins, mods, community tools, and web development.
 
 ### Technologies
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,react,nextjs,tailwind,nodejs,sqlite" height="36" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,react,nextjs,tailwind,nodejs" height="36" />
 
 ### Tools
 
