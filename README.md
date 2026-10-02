@@ -4,8 +4,6 @@
 
 **Building tools, communities, and experiences around Minecraft & the web.**
 
-Java · TypeScript · Minecraft · Web Development
-
 </div>
 
 ### About
