@@ -7,32 +7,13 @@
 <a href="https://github.com/CraftersHubJP"><img src="https://img.shields.io/badge/CraftersHub-0f2027?style=for-the-badge&logo=github&logoColor=5EEAD4" /></a>
 <a href="https://github.com/Yuzral"><img src="https://img.shields.io/badge/Yuzral-203a43?style=for-the-badge&logo=github&logoColor=5EEAD4" /></a>
 <a href="https://github.com/TMCJapan"><img src="https://img.shields.io/badge/TMCJapan-2c5364?style=for-the-badge&logo=github&logoColor=5EEAD4" /></a>
-
-<h3>Stack</h3>
-<p>普段つかっている技術</p>
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,react,nextjs,tailwind,nodejs" height="40" />
-
-<h3>Projects</h3>
-<p>公開しているリポジトリ</p>
-
-<table>
-  <tr>
-    <td align="center" width="200"><a href="https://github.com/sudatti624/AmuOS"><b>AmuOS</b></a><br/><br/><img src="https://img.shields.io/github/languages/top/sudatti624/AmuOS?style=flat-square&color=2c5364&labelColor=0f2027" /> <img src="https://img.shields.io/github/last-commit/sudatti624/AmuOS?style=flat-square&label=&color=203a43" /></td>
-    <td align="center" width="200"><a href="https://github.com/sudatti624/VoiceBot.py"><b>VoiceBot.py</b></a><br/><br/><img src="https://img.shields.io/github/languages/top/sudatti624/VoiceBot.py?style=flat-square&color=2c5364&labelColor=0f2027" /> <img src="https://img.shields.io/github/last-commit/sudatti624/VoiceBot.py?style=flat-square&label=&color=203a43" /></td>
-    <td align="center" width="200"><a href="https://github.com/sudatti624/Sabakan"><b>Sabakan</b></a><br/><br/><img src="https://img.shields.io/github/languages/top/sudatti624/Sabakan?style=flat-square&color=2c5364&labelColor=0f2027" /> <img src="https://img.shields.io/github/last-commit/sudatti624/Sabakan?style=flat-square&label=&color=203a43" /></td>
-  </tr>
-</table>
-
-<h3>Stats</h3>
-<p>GitHub での活動</p>
-
-<img src="https://komarev.com/ghpvc/?username=sudatti624&label=VIEWS&color=2c5364&style=flat-square" />
-<a href="https://github.com/sudatti624?tab=followers"><img src="https://img.shields.io/github/followers/sudatti624?label=FOLLOWERS&style=flat-square&color=203a43&labelColor=0f2027" /></a>
 <br/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudatti624&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sudatti624&hide_border=true&background=0d1117&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" />
-<img width="98.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudatti624&layout=compact&langs_count=8&card_width=1000&hide_border=true&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9" />
+<img src="https://komarev.com/ghpvc/?username=sudatti624&label=VIEWS&color=2c5364&style=for-the-badge" />
+<a href="https://github.com/sudatti624?tab=followers"><img src="https://img.shields.io/github/followers/sudatti624?label=FOLLOWERS&style=for-the-badge&color=203a43&labelColor=0f2027" /></a>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sudatti624&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=c9d1d9&rank_icon=github" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudatti624&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9" />
+<img height="150" src="https://streak-stats.demolab.com?user=sudatti624&hide_border=true&background=0d1117&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" />
 
 <p>楽しいを、少しずつかたちに</p>
 
