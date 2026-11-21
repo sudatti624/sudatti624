@@ -1,7 +1,7 @@
 <!-- ───────────── Header ───────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=sudati&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=STUDENT%20%C2%B7%20MINECRAFT%20%26%20WEB%20DEVELOPER&descSize=14&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=sudati&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=STUDENT%20%C2%B7%20MINECRAFT%20%EF%BC%86%20WEB%20DEVELOPER&descSize=14&descAlignY=60&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/sudatti624">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=520&lines=Learning+by+building.;Plugins+%C2%B7+Mods+%C2%B7+Community+tools+%C2%B7+Web;%E6%A5%BD%E3%81%97%E3%81%84%E3%82%92%E3%80%81%E5%B0%91%E3%81%97%E3%81%9A%E3%81%A4%E3%81%8B%E3%81%9F%E3%81%A1%E3%81%AB" alt="Typing SVG" />
